@@ -15,6 +15,10 @@ header {
 header nav {
     background-image: linear-gradient(-225deg, #d28314b8 0%, #e1a837c1 48%, #d4ad69 100%);
   }  
+#navbarNavAltMarkup a:hover {
+  background-color: #983c2e67;
+  border-radius: 5px;
+}
 
 body {
     background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
