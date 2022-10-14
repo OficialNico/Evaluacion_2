@@ -1,3 +1,4 @@
+import prompt from 'prompt';
 const productos = [
     { nombre: "Queso Mantecoso", precio: 3390 },
     { nombre: "Flan Caramelo", precio: 325 },
