@@ -1,5 +1,30 @@
+* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+    font-family: "Alumni Sans Pinstripe", "Roboto", sans-serif;
+  }
+
 @import url("https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Roboto:wght@400;500&display=swap");
 
+header {
+    background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
+  }
+ 
+header nav {
+    background-image: linear-gradient(-225deg, #d28314b8 0%, #e1a837c1 48%, #d4ad69 100%);
+  }  
+
 body {
-  background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+    background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
+    }
+.contactenos{
+    background-image: linear-gradient(-225deg, #d28314b8 0%, #e1a837c1 48%, #d4ad69 100%);
+}    
+#navbarNavAltMarkup{
+    background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
+}    
+.boton{
+    background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
 }
