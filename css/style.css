@@ -8,23 +8,39 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Roboto:wght@400;500&display=swap");
 
+.portada{
+  color: rgb(249, 90, 4);
+  font-size: 30px;
+}
 header {
     background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
-  }
- 
+} 
 header nav {
-    background-image: linear-gradient(-225deg, #d28314b8 0%, #e1a837c1 48%, #d4ad69 100%);
-  }  
+  background-image: linear-gradient(-225deg, #d28314b8 0%, #e1a837c1 48%, #d4ad69 100%);
+  border-style: groove;
+  border-color: rgb(240, 181, 92);
+}  
 #navbarNavAltMarkup a:hover {
   background-color: #983c2e67;
   border-radius: 5px;
 }
-
 body {
-    background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
-    }
+  background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
+}
+.titulo{
+  background-color:rgba(227, 70, 70, 0.762);
+  border-style: groove;
+  border-color: rgb(255, 0, 0);
+}
+.subti{
+  background-color: bisque;
+  border-style: groove;
+  border-color: rgb(240, 181, 92);
+}    
 .contactenos{
-    background-image: linear-gradient(-225deg, #d28314b8 0%, #e1a837c1 48%, #d4ad69 100%);
+  background-image: linear-gradient(-225deg, #d28314b8 0%, #e1a837c1 48%, #d4ad69 100%);
+  border-style: groove;
+  border-color: rgb(240, 181, 92);
 }    
 #navbarNavAltMarkup{
     background-image: linear-gradient(-225deg, #c5bdba72 0%, #c5a6893a 48%, #cec491 100%);
